@@ -1,2 +1,2 @@
 #!/bin/bash
-getlogin()
+echo "Effective username: $(whoami)"
