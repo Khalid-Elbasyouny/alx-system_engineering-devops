@@ -1,1 +1,1 @@
-this is a script for print “Hello, World”, followed by a new line 
+this is a script for 0x02-shell-redirections task
